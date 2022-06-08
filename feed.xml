@@ -3,7 +3,7 @@
     <title>Taracha</title>
     <link href="https://the-jos.github.io/taracha01/feed.xml" rel="self" />
     <link href="https://the-jos.github.io/taracha01" />
-    <updated>2022-06-08T22:26:50+02:00</updated>
+    <updated>2022-06-08T22:57:04+02:00</updated>
     <author>
         <name>Taracha</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://the-jos.github.io/taracha01/contact-us/"/>
         <id>https://the-jos.github.io/taracha01/contact-us/</id>
 
-        <updated>2022-06-08T22:07:11+02:00</updated>
+        <updated>2022-06-08T22:57:04+02:00</updated>
             <summary>
                 <![CDATA[
                     03 222 33 55 samplemail@somemailxyz.be
@@ -25,8 +25,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>03 222 33 55</p>
-<p>samplemail@somemailxyz.be</p>
+                <p><a href="tel:+323 222 33 55" rel="nofollow">03 222 33 55</a></p>
+<p><a href="mailto:samplemail@somemailxyz.be">samplemail@somemailxyz.be</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -37,8 +38,9 @@
         </author>
         <link href="https://the-jos.github.io/taracha01/renovation/"/>
         <id>https://the-jos.github.io/taracha01/renovation/</id>
+            <category term="Renovations"/>
 
-        <updated>2022-06-08T22:06:41+02:00</updated>
+        <updated>2022-06-08T22:52:57+02:00</updated>
             <summary>
                 <![CDATA[
                     Et egestas quis ipsum suspendisse ultrices gravida. Tristique et egestas quis ipsum suspendisse. Felis donec et odio pellentesque diam volutpat&hellip;
@@ -57,8 +59,9 @@
         </author>
         <link href="https://the-jos.github.io/taracha01/demolition/"/>
         <id>https://the-jos.github.io/taracha01/demolition/</id>
+            <category term="Demolition"/>
 
-        <updated>2022-06-08T22:06:21+02:00</updated>
+        <updated>2022-06-08T22:53:08+02:00</updated>
             <summary>
                 <![CDATA[
                     Lacus viverra vitae congue eu consequat ac. Porttitor lacus luctus accumsan tortor posuere ac ut. Et netus et malesuada fames.
@@ -78,8 +81,9 @@
         </author>
         <link href="https://the-jos.github.io/taracha01/construction/"/>
         <id>https://the-jos.github.io/taracha01/construction/</id>
+            <category term="Construction"/>
 
-        <updated>2022-06-08T22:26:50+02:00</updated>
+        <updated>2022-06-08T22:53:16+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://the-jos.github.io/taracha01/media/posts/1/tar_construction.jpg" alt="" />

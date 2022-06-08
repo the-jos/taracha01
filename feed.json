@@ -15,14 +15,14 @@
             "url": "https://the-jos.github.io/taracha01/contact-us/",
             "title": "Contact me",
             "summary": "03 222 33 55 samplemail@somemailxyz.be",
-            "content_html": "<p>03 222 33 55</p>\n<p>samplemail@somemailxyz.be</p>",
+            "content_html": "<p><a href=\"tel:+323 222 33 55\" rel=\"nofollow\">03 222 33 55</a></p>\n<p><a href=\"mailto:samplemail@somemailxyz.be\">samplemail@somemailxyz.be</a></p>\n<p> </p>",
             "author": {
                 "name": "Taracha"
             },
             "tags": [
             ],
             "date_published": "2022-06-08T21:45:32+02:00",
-            "date_modified": "2022-06-08T22:07:11+02:00"
+            "date_modified": "2022-06-08T22:57:04+02:00"
         },
         {
             "id": "https://the-jos.github.io/taracha01/renovation/",
@@ -34,9 +34,10 @@
                 "name": "Taracha"
             },
             "tags": [
+                   "Renovations"
             ],
             "date_published": "2022-06-08T21:44:28+02:00",
-            "date_modified": "2022-06-08T22:06:41+02:00"
+            "date_modified": "2022-06-08T22:52:57+02:00"
         },
         {
             "id": "https://the-jos.github.io/taracha01/demolition/",
@@ -48,9 +49,10 @@
                 "name": "Taracha"
             },
             "tags": [
+                   "Demolition"
             ],
             "date_published": "2022-06-08T21:44:21+02:00",
-            "date_modified": "2022-06-08T22:06:21+02:00"
+            "date_modified": "2022-06-08T22:53:08+02:00"
         },
         {
             "id": "https://the-jos.github.io/taracha01/construction/",
@@ -63,9 +65,10 @@
                 "name": "Taracha"
             },
             "tags": [
+                   "Construction"
             ],
             "date_published": "2022-06-08T21:43:23+02:00",
-            "date_modified": "2022-06-08T22:26:50+02:00"
+            "date_modified": "2022-06-08T22:53:16+02:00"
         }
     ]
 }

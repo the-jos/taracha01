@@ -30,6 +30,7 @@
             "title": "Renovation",
             "summary": "Et egestas quis ipsum suspendisse ultrices gravida. Tristique et egestas quis ipsum suspendisse. Felis donec et odio pellentesque diam volutpat&hellip;",
             "content_html": "<p>Et egestas quis ipsum suspendisse ultrices gravida. Tristique et egestas quis ipsum suspendisse. Felis donec et odio pellentesque diam volutpat commodo. Id velit ut tortor pretium. Elementum nibh tellus molestie nunc non. Interdum velit laoreet id donec ultrices tincidunt arcu non sodales. In vitae turpis massa sed elementum tempus egestas sed sed. Enim sit amet venenatis urna cursus eget. Hendrerit gravida rutrum quisque non. Commodo viverra maecenas accumsan lacus vel facilisis volutpat. Habitant morbi tristique senectus et netus et. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Molestie nunc non blandit massa enim nec dui nunc mattis. Vestibulum lorem sed risus ultricies tristique. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Erat velit scelerisque in dictum.</p>",
+            "image": "https://the-jos.github.io/taracha01/media/posts/3/tar_renovations2.jpg",
             "author": {
                 "name": "Taracha"
             },
@@ -37,7 +38,7 @@
                    "Renovations"
             ],
             "date_published": "2022-06-08T21:44:28+02:00",
-            "date_modified": "2022-06-08T22:52:57+02:00"
+            "date_modified": "2022-06-08T23:49:14+02:00"
         },
         {
             "id": "https://the-jos.github.io/taracha01/demolition/",
@@ -45,6 +46,7 @@
             "title": "Demolition",
             "summary": "Lacus viverra vitae congue eu consequat ac. Porttitor lacus luctus accumsan tortor posuere ac ut. Et netus et malesuada fames.",
             "content_html": "<p>Lacus viverra vitae congue eu consequat ac. Porttitor lacus luctus accumsan tortor posuere ac ut. Et netus et malesuada fames. Felis eget nunc lobortis mattis. Amet mattis vulputate enim nulla aliquet porttitor lacus. Sodales ut eu sem integer vitae justo eget. Orci ac auctor augue mauris. Vitae tortor condimentum lacinia quis. Feugiat nibh sed pulvinar proin gravida hendrerit lectus a. Quam id leo in vitae turpis massa.</p>\n<p>Mi proin sed libero enim sed faucibus turpis. Mattis pellentesque id nibh tortor id. Consequat nisl vel pretium lectus quam. Sed vulputate mi sit amet mauris commodo quis imperdiet massa. Id volutpat lacus laoreet non curabitur. Eget magna fermentum iaculis eu non diam. Ultricies mi quis hendrerit dolor magna eget est lorem. Ultricies mi quis hendrerit dolor magna eget est. Eget gravida cum sociis natoque penatibus et magnis. Sit amet volutpat consequat mauris nunc congue. Facilisis mauris sit amet massa. Neque gravida in fermentum et sollicitudin ac orci phasellus. Ipsum suspendisse ultrices gravida dictum. Tellus cras adipiscing enim eu.</p>",
+            "image": "https://the-jos.github.io/taracha01/media/posts/2/tar_demolition.jpg",
             "author": {
                 "name": "Taracha"
             },
@@ -52,7 +54,7 @@
                    "Demolition"
             ],
             "date_published": "2022-06-08T21:44:21+02:00",
-            "date_modified": "2022-06-08T22:53:08+02:00"
+            "date_modified": "2022-06-08T23:44:51+02:00"
         },
         {
             "id": "https://the-jos.github.io/taracha01/construction/",

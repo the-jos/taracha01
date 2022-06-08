@@ -1,8 +1,8 @@
 
 window.onload = function() {
-  let customfooter = document.getElementById("customfooter");
-  let actualfooter = document.getElementsByClassName("footer");
-  let fragment = document.createDocumentFragment();
+  const customfooter = document.getElementById("customfooter");
+  const actualfooter = document.getElementsByClassName("footer");
+  const fragment = document.createDocumentFragment();
   fragment.appendChild(customfooter);
   actualfooter.appendChild(fragment);  
 };

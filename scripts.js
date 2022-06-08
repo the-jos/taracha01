@@ -1,7 +1,7 @@
 
 window.onload = function() {
   const customfooter = document.getElementById("customfooter");
-  const footerdiv = document.getElementsByClassName("footerdiv")[0];
+  const footerdiv = document.getElementsByClassName("footer")[0];
   const actualfooter = document.getElementsByClassName("footer__copyright")[0];
   const fragment = document.createDocumentFragment();
 

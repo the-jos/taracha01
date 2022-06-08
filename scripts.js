@@ -7,5 +7,5 @@ window.onload = function() {
 
   fragment.appendChild(customfooter);
   footerdiv.appendChild(fragment);    
-  footerdiv.insertBefore(customfooter, logo);
+  logo.parentNode.insertBefore(customfooter, logo);
 };

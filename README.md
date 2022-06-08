@@ -1,1 +1,0 @@
-# taracha01 test

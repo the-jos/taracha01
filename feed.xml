@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Taracha</title>
+    <link href="https://the-jos.github.io/taracha01/feed.xml" rel="self" />
+    <link href="https://the-jos.github.io/taracha01" />
+    <updated>2022-06-08T21:45:44+02:00</updated>
+    <author>
+        <name>Taracha</name>
+    </author>
+    <id>https://the-jos.github.io/taracha01</id>
+
+    <entry>
+        <title>Contact me</title>
+        <author>
+            <name>Taracha</name>
+        </author>
+        <link href="https://the-jos.github.io/taracha01/contact-us/"/>
+        <id>https://the-jos.github.io/taracha01/contact-us/</id>
+
+        <updated>2022-06-08T21:45:44+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Renovation</title>
+        <author>
+            <name>Taracha</name>
+        </author>
+        <link href="https://the-jos.github.io/taracha01/renovation/"/>
+        <id>https://the-jos.github.io/taracha01/renovation/</id>
+
+        <updated>2022-06-08T21:44:28+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Demolition</title>
+        <author>
+            <name>Taracha</name>
+        </author>
+        <link href="https://the-jos.github.io/taracha01/demolition/"/>
+        <id>https://the-jos.github.io/taracha01/demolition/</id>
+
+        <updated>2022-06-08T21:44:21+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Construction</title>
+        <author>
+            <name>Taracha</name>
+        </author>
+        <link href="https://the-jos.github.io/taracha01/test-post/"/>
+        <id>https://the-jos.github.io/taracha01/test-post/</id>
+
+        <updated>2022-06-08T21:44:08+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div id="output" class="page-generator__output js-generator-output">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur a erat nam at lectus urna duis convallis. Egestas maecenas pharetra convallis posuere morbi leo urna molestie. Aliquet nibh praesent tristique magna sit amet purus gravida. Tellus in hac habitasse platea dictumst vestibulum rhoncus est. Pulvinar sapien et ligula ullamcorper malesuada proin libero. Sit amet porttitor eget dolor morbi non arcu. Ac turpis egestas integer eget aliquet nibh. Dui ut ornare lectus sit. Penatibus et magnis dis parturient montes nascetur ridiculus mus. Non consectetur a erat nam at lectus urna duis.</p>
+<p>Ut consequat semper viverra nam libero justo laoreet. Non sodales neque sodales ut etiam sit amet nisl purus. Sed risus pretium quam vulputate dignissim suspendisse in est ante. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Amet tellus cras adipiscing enim eu turpis egestas pretium. Et netus et malesuada fames ac turpis egestas integer eget. Sollicitudin nibh sit amet commodo. Et malesuada fames ac turpis egestas maecenas pharetra. Velit scelerisque in dictum non consectetur a erat nam at. Dignissim sodales ut eu sem integer vitae justo. Sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque eu. In cursus turpis massa tincidunt dui ut ornare. Ut consequat semper viverra nam libero justo laoreet.</p>
+<p>Lacus viverra vitae congue eu consequat ac. Porttitor lacus luctus accumsan tortor posuere ac ut. Et netus et malesuada fames. Felis eget nunc lobortis mattis. Amet mattis vulputate enim nulla aliquet porttitor lacus. Sodales ut eu sem integer vitae justo eget. Orci ac auctor augue mauris. Vitae tortor condimentum lacinia quis. Feugiat nibh sed pulvinar proin gravida hendrerit lectus a. Quam id leo in vitae turpis massa.</p>
+<p>Mi proin sed libero enim sed faucibus turpis. Mattis pellentesque id nibh tortor id. Consequat nisl vel pretium lectus quam. Sed vulputate mi sit amet mauris commodo quis imperdiet massa. Id volutpat lacus laoreet non curabitur. Eget magna fermentum iaculis eu non diam. Ultricies mi quis hendrerit dolor magna eget est lorem. Ultricies mi quis hendrerit dolor magna eget est. Eget gravida cum sociis natoque penatibus et magnis. Sit amet volutpat consequat mauris nunc congue. Facilisis mauris sit amet massa. Neque gravida in fermentum et sollicitudin ac orci phasellus. Ipsum suspendisse ultrices gravida dictum. Tellus cras adipiscing enim eu.</p>
+<p>Et egestas quis ipsum suspendisse ultrices gravida. Tristique et egestas quis ipsum suspendisse. Felis donec et odio pellentesque diam volutpat commodo. Id velit ut tortor pretium. Elementum nibh tellus molestie nunc non. Interdum velit laoreet id donec ultrices tincidunt arcu non sodales. In vitae turpis massa sed elementum tempus egestas sed sed. Enim sit amet venenatis urna cursus eget. Hendrerit gravida rutrum quisque non. Commodo viverra maecenas accumsan lacus vel facilisis volutpat. Habitant morbi tristique senectus et netus et. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Molestie nunc non blandit massa enim nec dui nunc mattis. Vestibulum lorem sed risus ultricies tristique. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Erat velit scelerisque in dictum.</p>
+</div>
+            ]]>
+        </content>
+    </entry>
+</feed>

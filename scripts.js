@@ -10,5 +10,5 @@ window.onload = function() {
 };
 
 function editfooter(customfooter) {
-  customfooter.innerHTML = 'testje';
+  customfooter.innerHTML = 'test footer';
 }

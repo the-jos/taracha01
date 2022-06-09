@@ -10,5 +10,13 @@ window.onload = function() {
 };
 
 function editfooter(customfooter) {
-  customfooter.innerHTML = 'test footer';
+  customfooter.classList.add("flex-container")
+  customfooter.innerHTML = '
+  <div class="flex-child f_left">
+    <p>Flex Column 1</p>
+  </div>
+  
+  <div class="flex-child f_right">
+    <p>Flex Column 2</p>
+  </div>';
 }

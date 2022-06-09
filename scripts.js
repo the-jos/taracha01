@@ -6,8 +6,9 @@ window.onload = function() {
   fragment.appendChild(customfooter);
   logo.parentNode.appendChild(fragment);
   logo.parentNode.insertBefore(customfooter, logo);
+  editfooter(customfooter);
 };
 
-function functionName(customfooter) {
+function editfooter(customfooter) {
   customfooter.innerHTML = testje
 }

@@ -7,3 +7,7 @@ window.onload = function() {
   logo.parentNode.appendChild(fragment);
   logo.parentNode.insertBefore(customfooter, logo);
 };
+
+function functionName(customfooter) {
+  customfooter.innerHTML = testje
+}

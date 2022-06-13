@@ -8,7 +8,7 @@ window.onload = function() {
   logo.parentNode.appendChild(fragment);
   logo.parentNode.insertBefore(customfooter, logo);
   editfooter(customfooter);
-  editheaderurl(headerurl)
+  //editheaderurl(headerurl)
 };
 
 function editfooter(customfooter) {

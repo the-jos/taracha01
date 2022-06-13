@@ -8,7 +8,7 @@ window.onload = function() {
   logo.parentNode.appendChild(fragment);
   logo.parentNode.insertBefore(customfooter, logo);
   editfooter(customfooter);
-  //editheaderurl(headerurl);
+  editheaderurl(headerurl);
 };
 
 function editfooter(customfooter) {
@@ -18,6 +18,6 @@ function editfooter(customfooter) {
 };
 
 function editheaderurl(headerurl) {
-	headerurl.innerHTML += '<img src="https://the-jos.github.io/taracha01/media/files/tar_banner_renovation02-small.jpg" alt="Taracha">'
-	headerurl.parentElement.innerHTML += '<div class="fill"></div>'
+	headerurl.innerHTML += '<img src="https://the-jos.github.io/taracha01/media/files/tar_banner_renovation02-small.jpg" alt="Taracha">';
+	//headerurl.parentElement.innerHTML += '<div class="fill"></div>';
 };

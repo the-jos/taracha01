@@ -19,5 +19,5 @@ function editfooter(customfooter) {
 
 function editheaderurl(headerurl) {
 	headerurl.innerHTML += '<img src="https://the-jos.github.io/taracha01/media/files/tar_banner_renovation02-small.jpg" alt="Taracha">' +
-	'<div class="fill"></div>'
+	'<span class="fill"></span>'
 }

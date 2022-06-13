@@ -18,5 +18,5 @@ function editfooter(customfooter) {
 }
 
 function editheaderurl(headerurl) {
-	headerurl.innerHTML =+ '<p>test</p>'
+	headerurl.innerHTML += '<p>test</p>'
 }

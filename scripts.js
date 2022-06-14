@@ -4,8 +4,8 @@ window.onload = function() {
   const fragment = document.createDocumentFragment();
   const headerurl = document.querySelector("header > a");
   const h2construction = document.querySelector("body > div.container > main > div > article:nth-child(1) > div > header > h2");
-  const h2demolition = document.querySelector("body > div.container > main > div > article:nth-child(1) > div > header > h2");
-  const h2renovation = document.querySelector("body > div.container > main > div > article:nth-child(1) > div > header > h2");
+  const h2demolition = document.querySelector("body > div.container > main > div > article:nth-child(2) > div > header > h2");
+  const h2renovation = document.querySelector("body > div.container > main > div > article:nth-child(3) > div > header > h2");
 
   fragment.appendChild(customfooter);
   logo.parentNode.appendChild(fragment);

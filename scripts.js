@@ -21,7 +21,7 @@ function editfooter(customfooter) {
   '</div>' +
   '<div class="flex-child f_right">' +
   
-  '<h3>TARACHA ZBIGNIEW BVBA</h3>' +  
+  '<h4>TARACHA ZBIGNIEW BVBA</h4>' +  
   'Molenbaan 86<br>' +
   '2900 Schoten<br>' +
   'BE 0518.927.234' +

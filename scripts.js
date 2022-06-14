@@ -13,9 +13,9 @@ window.onload = function() {
   editfooter(customfooter);
   editheaderurl(headerurl);
   
-  h2construction.setAttribute(‘id’,‘construction’);
-  h2demolition.setAttribute(‘id’,‘demolition’);
-  h2renovation.setAttribute(‘id’,‘renovation’);
+  h2construction.setAttribute("id","construction");
+  h2demolition.setAttribute("id","demolition");
+  h2renovation.setAttribute("id","renovation");
 };
 
 function editfooter(customfooter) {

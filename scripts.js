@@ -31,7 +31,8 @@ function editfooter(customfooter) {
   '<h6>TARACHA ZBIGNIEW BVBA</h6>' +  
   'Molenbaan 86<br>' +
   '2900 Schoten<br>' +
-  'BE 0518.927.234' +
+  'BELGIUM<br>' +
+  'BE 0518.927.234<br>' +
   '</div>';
 };
 

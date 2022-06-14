@@ -20,7 +20,7 @@ function editfooter(customfooter) {
   '<address><h2>TARACHA ZBIGNIEW BVBA</h2><br>' +
   'Molenbaan 86<br>' +
   '2900 Schoten<br>' +
-  '<a href="mailto:info@zbtaracha.pl">info@zbtaracha.pl<a><br>' +
+  '<a href="mailto:info@zbtaracha.pl">info@zbtaracha.pl</a><br>' +
   '<a href="tel:+32499003355">+32 499 00 33 55</a><br></address></div>';
 };
 

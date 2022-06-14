@@ -11,20 +11,6 @@
     },
     "items": [
         {
-            "id": "https://the-jos.github.io/taracha01/contact-us/",
-            "url": "https://the-jos.github.io/taracha01/contact-us/",
-            "title": "Contact me",
-            "summary": "03 222 33 55 samplemail@somemailxyz.be",
-            "content_html": "<p><a href=\"tel:+323 222 33 55\" rel=\"nofollow\">03 222 33 55</a></p>\n<p><a href=\"mailto:samplemail@somemailxyz.be\">samplemail@somemailxyz.be</a></p>\n<p> </p>",
-            "author": {
-                "name": "Taracha"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-06-08T21:45:32+02:00",
-            "date_modified": "2022-06-08T22:57:04+02:00"
-        },
-        {
             "id": "https://the-jos.github.io/taracha01/renovation/",
             "url": "https://the-jos.github.io/taracha01/renovation/",
             "title": "Renovation",

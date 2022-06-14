@@ -10,28 +10,6 @@
     <id>https://the-jos.github.io/taracha01</id>
 
     <entry>
-        <title>Contact me</title>
-        <author>
-            <name>Taracha</name>
-        </author>
-        <link href="https://the-jos.github.io/taracha01/contact-us/"/>
-        <id>https://the-jos.github.io/taracha01/contact-us/</id>
-
-        <updated>2022-06-08T22:57:04+02:00</updated>
-            <summary>
-                <![CDATA[
-                    03 222 33 55 samplemail@somemailxyz.be
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="tel:+323 222 33 55" rel="nofollow">03 222 33 55</a></p>
-<p><a href="mailto:samplemail@somemailxyz.be">samplemail@somemailxyz.be</a></p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Renovation</title>
         <author>
             <name>Taracha</name>

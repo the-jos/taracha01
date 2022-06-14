@@ -13,10 +13,10 @@ window.onload = function() {
 
 function editfooter(customfooter) {
   customfooter.classList.add("flex-container")
-  customfooter.innerHTML = '<address><div class="flex-child f_left">' +
+  customfooter.innerHTML = '<div class="flex-child f_left">' +
   '<h2 id="contact">CONTACT ME</h2>' +
   '<a href="tel:+32499003355">+32 499 00 33 55</a><br>' +
-  '<a href="mailto:info@zbtaracha.pl">info@zbtaracha.pl</a><br>' +  
+  '<a href="mailto:info@zbtaracha.pl">info@zbtaracha.pl</a>' +  
   
   '</div>' +
   '<div class="flex-child f_right">' +
@@ -25,7 +25,7 @@ function editfooter(customfooter) {
   'Molenbaan 86<br>' +
   '2900 Schoten<br>' +
   'BE 0518.927.234' +
-  '</div></address>';
+  '</div>';
 };
 
 function editheaderurl(headerurl) {

@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://the-jos.github.io/taracha01/sitemap.xml
+Disallow: /

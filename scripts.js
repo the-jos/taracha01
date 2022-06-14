@@ -13,18 +13,19 @@ window.onload = function() {
 
 function editfooter(customfooter) {
   customfooter.classList.add("flex-container")
-  customfooter.innerHTML = '<address><div class="flex-child f_left"><h2 id="contact">CONTACT ME</h2>' +
+  customfooter.innerHTML = '<address><div class="flex-child f_left">' +
+  '<h2 id="contact">CONTACT ME</h2>' +
   '<a href="tel:+32499003355">+32 499 00 33 55</a><br>' +
   '<a href="mailto:info@zbtaracha.pl">info@zbtaracha.pl</a><br>' +  
   
   '</div>' +
   '<div class="flex-child f_right">' +
   
-  '<h3>TARACHA ZBIGNIEW BVBA</h3><br>' +  
+  '<h3>TARACHA ZBIGNIEW BVBA</h3>' +  
   'Molenbaan 86<br>' +
   '2900 Schoten<br>' +
   'BE 0518.927.234' +
-  '</div></div></address>';
+  '</div></address>';
 };
 
 function editheaderurl(headerurl) {

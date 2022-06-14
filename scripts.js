@@ -3,12 +3,19 @@ window.onload = function() {
   const logo = document.querySelector("footer .logo");
   const fragment = document.createDocumentFragment();
   const headerurl = document.querySelector("header > a");
+  const h2construction = document.querySelector("body > div.container > main > div > article:nth-child(1) > div > header > h2");
+  const h2demolition = document.querySelector("body > div.container > main > div > article:nth-child(1) > div > header > h2");
+  const h2renovation = document.querySelector("body > div.container > main > div > article:nth-child(1) > div > header > h2");
 
   fragment.appendChild(customfooter);
   logo.parentNode.appendChild(fragment);
   logo.parentNode.insertBefore(customfooter, logo);
   editfooter(customfooter);
   editheaderurl(headerurl);
+  
+  h2construction.setAttribute(‘id’,‘construction’);
+  h2demolition.setAttribute(‘id’,‘demolition’);
+  h2renovation.setAttribute(‘id’,‘renovation’);
 };
 
 function editfooter(customfooter) {
